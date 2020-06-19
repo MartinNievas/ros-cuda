@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="roscuda_vectormul" type="roscuda_vectormul" name="roscuda_vectormul" respawn="true" output="screen">
+  </node>
+</launch>
+
