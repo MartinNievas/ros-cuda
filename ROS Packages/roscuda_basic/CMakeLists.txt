@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(roscuda_basic)
+# set(CMAKE_C_COMPILER "/usr/bin/gcc-6")
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 # add_compile_options(-std=c++11)
